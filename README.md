@@ -2,5 +2,5 @@
 # 👀 I’m interested in Programming and Development of Software.
 # 🌱 I’m currently learning Backend Web Development.
 # 📫 How to reach me : kasaudhanak97@gmail.com
-# 😄 Pronouns: Harsha, Harsh, Ashish, Ravi.
+# 😄 NickName: Harsha, Harsh, Ashish, Ravi.
 
